@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "raul-developer",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
